@@ -1,6 +1,7 @@
 -- ============================================================
 -- WHERE CLAUSE - FILTER ROWS BASED ON CONDITIONS
 -- ============================================================
+-- LEARNING GUIDE: Start with LESSON 01 and progress in order
 -- WHERE filters data to return only rows matching specified conditions
 -- Essential for reducing result set to relevant data
 -- Used in SELECT, UPDATE, DELETE statements
@@ -8,7 +9,7 @@
 
 
 -- ============================================================
--- 1. WHERE WITH EQUALITY OPERATOR (=)
+-- LESSON 01: WHERE WITH EQUALITY OPERATOR (=)
 -- ============================================================
 SELECT first_name 
 FROM customer_table 

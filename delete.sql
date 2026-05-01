@@ -1,0 +1,7 @@
+DELETE FROM customer_table WHERE cust_id = 1; //
+// TO DELETE THE RECORD FROM THE TABLE WHERE CUST_ID IS 1
+
+
+Delete from customer_table where age>30; 
+// TO DELETE ALL THE RECORDS FROM THE TABLE WHERE AGE IS GREATER THAN 30
+

@@ -28,7 +28,7 @@ FROM customer_table;
 -- | Michael   |
 -- | David     |
 -- | Emma      |
--- (All 1000 rows if 1000 customers exist)
+-- (All e1000 rows if 1000 customers xist)
 
 -- WHEN TO USE:
 -- - Need only one piece of information
